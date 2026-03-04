@@ -1,0 +1,33 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Chip body -->
+  <rect x="34" y="34" width="60" height="60" rx="10" fill="#F4B942"/>
+  
+  <!-- Inner core -->
+  <rect x="52" y="52" width="24" height="24" rx="4" fill="#1E1E1E"/>
+
+  <!-- Pins top -->
+  <g fill="#F4B942">
+    <rect x="40" y="14" width="6" height="14"/>
+    <rect x="54" y="14" width="6" height="14"/>
+    <rect x="68" y="14" width="6" height="14"/>
+    <rect x="82" y="14" width="6" height="14"/>
+    
+    <!-- Pins bottom -->
+    <rect x="40" y="100" width="6" height="14"/>
+    <rect x="54" y="100" width="6" height="14"/>
+    <rect x="68" y="100" width="6" height="14"/>
+    <rect x="82" y="100" width="6" height="14"/>
+    
+    <!-- Pins left -->
+    <rect x="14" y="40" width="14" height="6"/>
+    <rect x="14" y="54" width="14" height="6"/>
+    <rect x="14" y="68" width="14" height="6"/>
+    <rect x="14" y="82" width="14" height="6"/>
+    
+    <!-- Pins right -->
+    <rect x="100" y="40" width="14" height="6"/>
+    <rect x="100" y="54" width="14" height="6"/>
+    <rect x="100" y="68" width="14" height="6"/>
+    <rect x="100" y="82" width="14" height="6"/>
+  </g>
+</svg>
